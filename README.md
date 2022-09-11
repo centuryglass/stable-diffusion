@@ -1,4 +1,7 @@
 # Stable Diffusion
+The goal of this fork is to provide stable-diffusion with inpainting and other community-provided improvements, but without a built-in UI or support for other models.  Once finished, this fork should serve as an ideal backend for other interfaces or workflows. I intend to use it as an alternate backend for [IntraPaint](https://github.com/centuryglass/IntraPaint).
+
+# Original README:
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
 [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://ommer-lab.com/research/latent-diffusion-models/)<br/>
